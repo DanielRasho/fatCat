@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Cat  extends Actor
 {
-    protected boolean tired = false;
+    protected boolean tired = false; // This is an informative comment.
     protected boolean hungry = false;
     protected boolean bored = true;
     
